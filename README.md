@@ -1,1 +1,1 @@
-# SnakeJs
+# Simple snake game
